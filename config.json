@@ -1,0 +1,96 @@
+{
+  "keywords": [
+    "internship",
+    "hackathon",
+    "exchange",
+    "scholarship",
+    "fellowship",
+    "student",
+    "remote",
+    "software",
+    "computer science",
+    "artificial intelligence",
+    "machine learning",
+    "cybersecurity",
+    "programming",
+    "developer",
+    "coding",
+    "technology",
+    "IT",
+    "undergraduate",
+    "summer program"
+  ],
+  "exclude_keywords": [],
+  "reminder_days_before": 7,
+  "delay_between_sources_seconds": 2,
+  "sources": [
+    {
+      "name": "Opportunity Desk",
+      "type": "rss",
+      "url": "https://opportunitydesk.org/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Opportunities for Africans",
+      "type": "rss",
+      "url": "https://www.opportunitiesforafricans.com/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Scholars4Dev",
+      "type": "html",
+      "url": "https://www.scholars4dev.com/",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "Devpost",
+      "type": "html",
+      "url": "https://devpost.com/hackathons",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "MLH",
+      "type": "html",
+      "url": "https://mlh.io/",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "Devfolio",
+      "type": "html",
+      "url": "https://devfolio.co/explore",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "DoraHacks",
+      "type": "html",
+      "url": "https://dorahacks.io/",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "Google Summer of Code",
+      "type": "html",
+      "url": "https://summerofcode.withgoogle.com/",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "IAESTE",
+      "type": "html",
+      "url": "https://iaeste.org/",
+      "selector": "a[href]",
+      "enabled": true
+    },
+    {
+      "name": "DAAD Scholarships",
+      "type": "html",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+      "selector": "a[href]",
+      "enabled": true
+    }
+  ]
+}
