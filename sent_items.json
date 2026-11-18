@@ -1,1 +1,830 @@
-{}
+{
+  "https://opportunitydesk.org/2026/11/18/nextgen-service-summer-policy-academy-2027": {
+    "title": "NextGen Service Summer Policy Academy (SPA) 2027 (Fully-funded)",
+    "deadline": "2026-12-15",
+    "first_seen": "2026-11-18T18:57:19.135031+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028": {
+    "title": "New America Fellows Program Class of 2028 (up to $30,000)",
+    "deadline": "2027-02-01",
+    "first_seen": "2026-11-18T18:57:19.330198+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/digital-democracy-edinburgh-2027": {
+    "title": "Open Call: Travel Stipends for Digital Democracy Edinburgh 2027",
+    "deadline": "2026-12-03",
+    "first_seen": "2026-11-18T18:57:19.532399+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027": {
+    "title": "Stanley Park Climate Finance Scholarships 2027",
+    "deadline": "2027-03-01",
+    "first_seen": "2026-11-18T18:57:19.730321+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027": {
+    "title": "Journalism & Women Symposium (JAWS) Health Journalism Fellowship 2027 ($4,000 stipend)",
+    "deadline": "2026-12-07",
+    "first_seen": "2026-11-18T18:57:19.936651+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027": {
+    "title": "Healthy Futures Mastercard Scholarship 2027",
+    "deadline": "2026-12-10",
+    "first_seen": "2026-11-18T18:57:20.160282+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027": {
+    "title": "French-African Foundation Young Leaders Program 2027",
+    "deadline": "2026-12-16",
+    "first_seen": "2026-11-18T18:57:20.368139+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027": {
+    "title": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:20.590062+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027": {
+    "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:20.795954+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027": {
+    "title": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
+    "deadline": "2027-02-01",
+    "first_seen": "2026-11-18T18:57:20.995881+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-learners": {
+    "title": "The Microsoft Datacenter Academy Skilling Bootcamp for Africans and EMEA Learners.",
+    "deadline": "2026-12-18",
+    "first_seen": "2026-11-18T18:57:21.198150+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027": {
+    "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to  France)",
+    "deadline": "2026-12-16",
+    "first_seen": "2026-11-18T18:57:21.409738+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/wethinkcode_-tuition-free-16-month-ai-native-software-engineering-programme-2027": {
+    "title": "WeThinkCode_ Tuition-Free 16-month AI-native software engineering programme 2027 for young Africans in South Africa.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:21.616600+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026": {
+    "title": "The FAO Innovation Beyond the Buzzword Video Challenge 2026 for students, young professionals and creatives worldwide.",
+    "deadline": "2026-11-30",
+    "first_seen": "2026-11-18T18:57:21.828153+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/knight-science-journalism-academic-year-fellowship-2027-2028": {
+    "title": "Knight Science Journalism Academic-Year Fellowship at MIT 2027/2028 for Science Journalists worldwide ($USD $87,500 Stipend)",
+    "deadline": "2027-01-09",
+    "first_seen": "2026-11-18T18:57:22.025330+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health": {
+    "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master’s Scholarships in Public Health.",
+    "deadline": "2026-12-31",
+    "first_seen": "2026-11-18T18:57:22.236099+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-zoom-ai-launchpad-startup-grants-2027-for-startups-worldwide": {
+    "title": "The Zoom AI Launchpad Startup Grants 2027 for startups worldwide.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:22.457593+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-2027-ejn-story-grants-to-report-on-mining-environment-and-human-rights": {
+    "title": "The 2027 EJN Story Grants to Report on Mining, Environment and Human Rights in Africa (US $20,000 in grants)",
+    "deadline": "2026-12-01",
+    "first_seen": "2026-11-18T18:57:22.658861+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-international-court-of-justice-icj-judicial-fellowship-programme-2027-2028": {
+    "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates – The Hague, Netherlands.",
+    "deadline": "2027-02-05",
+    "first_seen": "2026-11-18T18:57:22.868459+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-healthy-futures-mastercard-scholarship-2027-for-african-changemakers": {
+    "title": "The Healthy Futures Mastercard Scholarship 2027 for African Changemakers.",
+    "deadline": "2026-12-10",
+    "first_seen": "2026-11-18T18:57:23.099759+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/australia-scholarships": {
+    "title": "Australia",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:23.295893+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/unicaf-scholarships-for-online-degrees": {
+    "title": "UNICAF Scholarships for Online Degrees at UK Universities",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:23.509030+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/epfl-excellence-fellowships": {
+    "title": "EPFL Excellence Fellowships for Bachelor’s and Master’s Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:23.716856+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/politecnico-milano-merit-based-international-scholarships": {
+    "title": "Politecnico di Milano Merit-Based International Scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:23.918180+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/international-scholarships-at-university-of-sydney": {
+    "title": "University of Sydney International Stipend Scholarship (USYDIS)",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:24.124994+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/karsh-international-scholarships-at-duke-university": {
+    "title": "Karsh International Scholarships at Duke University",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:24.324620+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/oxford-perishing-square-graduate-scholarships": {
+    "title": "Oxford Pershing Square Graduate Scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:24.528234+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/mastercard-foundation-afox-graduate-scholarships-oxford-mba": {
+    "title": "Mastercard Foundation AfOx Graduate Scholarships for the Oxford MBA",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:24.729850+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/imperial-presidents-phd-scholarships": {
+    "title": "President’s PhD Scholarships at Imperial College London",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:24.934032+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/sweden-scholarships-for-international-students-from-developing-countries": {
+    "title": "Swedish Institute Scholarships for Global Professionals",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:25.152081+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/danish-state-scholarships-at-university-of-copenhagen": {
+    "title": "Danish State Scholarships at University of Copenhagen",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:25.353911+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/american-university-scholarships-for-international-students": {
+    "title": "American University Emerging Global Leader Scholarship",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:25.560630+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/free-online-education-at-university-of-the-people": {
+    "title": "University of the People Online Tuition Free Degrees",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:25.753262+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/international-scholarships-for-women": {
+    "title": "Top 10+ International Scholarships for Women",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:25.973158+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/science-engineering-technology-scholarships-for-international-students": {
+    "title": "Top 10+ Science, Engineering and Technology Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:26.179198+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/top-10-academic-research-professional-fellowships-for-international-students": {
+    "title": "Top 8 International Fellowships for Students, Researchers and Professionals",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:26.388688+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/short-courses-training-scholarships-for-international-students": {
+    "title": "Top 5+ Training Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:26.585711+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/vice-chancellors-scholarships-for-international-students": {
+    "title": "5+ Chancellor’s/Vice Chancellor’s Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:26.784471+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/scholarships-by-global-institutions-organizations-foundations": {
+    "title": "Top 10+ International Scholarships offered by Global Organizations, Institutions, and Foundations",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:27.018981+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/top-25-research-scholarships-for-international-students": {
+    "title": "Top 15+ Research Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:27.244443+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/scholarships-list": {
+    "title": "All scholarship lists",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:27.474944+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/recanati-kaplan-foundation-scholarships-international-wildlife-conservation": {
+    "title": "Recanati-Kaplan Scholarships for Postgraduate Diploma in Wildlife Conservation at University of Oxford",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:27.706511+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/uk-scholarships": {
+    "title": "View all UK scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:27.902917+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/peo-international-peace-scholarships-for-women": {
+    "title": "PEO International Peace Scholarships for Women in USA and Canada",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:28.122202+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/adb-jsp-scholarships-for-asians-and-pacific-islanders": {
+    "title": "ADB-Japan Scholarship Program for Developing Countries in Asia and Pacific",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:28.323481+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/icsp-tuition-scholarships-at-university-of-oregon-usa": {
+    "title": "ICSP Scholarships at University of Oregon USA",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:28.528827+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/usa-scholarships": {
+    "title": "View all USA scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:28.737447+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/carleton-prestige-scholarships": {
+    "title": "Carleton Prestige Scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:28.933597+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/international-undergraduate-scholarships-at-humber-college-canada": {
+    "title": "Humber Polytechnic Bachelor’s Degree Entrance Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:29.138941+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/the-canadian-international-development-scholarships-2030": {
+    "title": "The Canadian International Development Scholarships 2030",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:29.342834+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/canada-scholarships": {
+    "title": "View all Canada scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:29.549130+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/anu-fenner-school-of-environment-society-phd-scholarship": {
+    "title": "ANU Fenner School of Environment & Society PhD Scholarship",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:29.757398+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/swinburne-international-excellence-undergraduate-and-postgraduate-scholarships": {
+    "title": "George Swinburne International Excellence Scholarship",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:29.989379+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/macquarie-university-scholarships-for-international-students": {
+    "title": "Macquarie Vice-Chancellor’s International Scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:30.215575+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/europe-scholarships": {
+    "title": "View all Europe scholarships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:30.416711+00:00",
+    "reminder_sent": false
+  },
+  "https://devpost.team": {
+    "title": "Devpost for Teams Access your company's private hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:30.631402+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/product/public-hackathons": {
+    "title": "Devpost Grow your developer ecosystem and promote your platform",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:30.831643+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/product/devpost-for-teams": {
+    "title": "Devpost for Teams Drive innovation, collaboration, and retention within your organization",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:31.081959+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/product/ai-hackathons": {
+    "title": "AI hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:31.298651+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/product/customer-hackathons": {
+    "title": "Customer hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:31.499685+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/blog": {
+    "title": "Blog Insights into hackathon planning and participation",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:31.707937+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/guides": {
+    "title": "Planning guides Best practices for planning online and in-person hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:31.936619+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com": {
+    "title": "Host a hackathon",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:32.203500+00:00",
+    "reminder_sent": false
+  },
+  "https://devpost.com/portfolio/redirect?page=hackathons": {
+    "title": "Your hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:32.500157+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/legal/community-guidelines": {
+    "title": "Community guidelines",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:32.702354+00:00",
+    "reminder_sent": false
+  },
+  "https://info.devpost.com/legal/security": {
+    "title": "Security",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:32.900646+00:00",
+    "reminder_sent": false
+  },
+  "https://sponsor.mlh.com/?utm_source=mlh&utm_medium=referral&utm_content=For+Businesses": {
+    "title": "For Businesses",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:33.108433+00:00",
+    "reminder_sent": false
+  },
+  "https://www.mlh.com/event-membership": {
+    "title": "Become an Organizer Get everything you need to run amazing hackathons and developer events.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:33.309834+00:00",
+    "reminder_sent": false
+  },
+  "https://sponsor.mlh.com/?utm_source=mlh&utm_medium=referral&utm_content=Partner+With+MLH+and+DEVReach+5M%2B+developers+building+the+future.": {
+    "title": "Partner With MLH and DEV Reach 5M+ developers building the future.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:33.545628+00:00",
+    "reminder_sent": false
+  },
+  "https://fellowship.mlh.com/programs/software-engineering?utm_source=mlh&utm_medium=referral&utm_content=Software+EngineeringFor+aspiring+Software+Engineers+to+collaborate+on+real-world+projects+from+our+partners.": {
+    "title": "Software Engineering For aspiring Software Engineers to collaborate on real-world projects from our partners.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:33.806926+00:00",
+    "reminder_sent": false
+  },
+  "https://fellowship.mlh.com/programs/web3-engineering?utm_source=mlh&utm_medium=referral&utm_content=Web3+EngineeringFor+hackers+who+want+to+dive+deep+into+blockchain+and+decentralized+technology.": {
+    "title": "Web3 Engineering For hackers who want to dive deep into blockchain and decentralized technology.",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:34.011913+00:00",
+    "reminder_sent": false
+  },
+  "https://blog.mlh.com/major-league-hacking-google-cloud-partnership-10-22-2025?utm_source=mlh&utm_medium=referral&utm_content=Major+League+Hacking+%28MLH%29+Partners+with+Google+Cloud%E2%80%99s+Gemini+to+Foster+AI-Native+Engineering+Education": {
+    "title": "Major League Hacking (MLH) Partners with Google Cloud’s Gemini to Foster AI-Native Engineering Education",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:34.223017+00:00",
+    "reminder_sent": false
+  },
+  "https://blog.mlh.com/welcome-to-the-2026-hackathon-season-07-08-2025?utm_source=mlh&utm_medium=referral&utm_content=Welcome+to+the+2026+Hackathon+Season%21": {
+    "title": "Welcome to the 2026 Hackathon Season!",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:34.454735+00:00",
+    "reminder_sent": false
+  },
+  "https://blog.mlh.com/4-ways-to-cut-down-your-hackathon-budget-without-reducing-the-event-size-10-12-2023?utm_source=mlh&utm_medium=referral&utm_content=4+Ways+to+Cut+Down+Your+Hackathon+Budget+Without+Reducing+the+Event+Size": {
+    "title": "4 Ways to Cut Down Your Hackathon Budget Without Reducing the Event Size",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:34.683284+00:00",
+    "reminder_sent": false
+  },
+  "https://www.mlh.com": {
+    "title": "Major League Hacking MLH Logo",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:34.884924+00:00",
+    "reminder_sent": false
+  },
+  "https://mlh.io/seasons/2027/events": {
+    "title": "Upcoming Hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:35.137339+00:00",
+    "reminder_sent": false
+  },
+  "https://mlh.link/fellowship-faq": {
+    "title": "Fellowship FAQ",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:35.394070+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/hackathons/applied": {
+    "title": "Your hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:35.606125+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/hackathons/open": {
+    "title": "All open hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:35.860027+00:00",
+    "reminder_sent": false
+  },
+  "https://lean-in-hacks-8.devfolio.co": {
+    "title": "Lean In Hacks 8.0",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:36.146963+00:00",
+    "reminder_sent": false
+  },
+  "https://codefestthon.devfolio.co": {
+    "title": "CODEFESTTHON 2026",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:36.400062+00:00",
+    "reminder_sent": false
+  },
+  "https://founders-house-kolkata.devfolio.co": {
+    "title": "Founders' House Kolkata",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:36.610102+00:00",
+    "reminder_sent": false
+  },
+  "https://clash-of-commits.devfolio.co": {
+    "title": "Clash of Commits",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:36.882377+00:00",
+    "reminder_sent": false
+  },
+  "https://health-hackathon.devfolio.co": {
+    "title": "Health Hackathon 3.0",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:37.204337+00:00",
+    "reminder_sent": false
+  },
+  "https://hft2026.devfolio.co": {
+    "title": "Hack For Tomorrow 2026",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:38.224371+00:00",
+    "reminder_sent": false
+  },
+  "https://chiangmai.devfolio.co": {
+    "title": "ETHChiangmai & Longevity Hackathon 2026",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:39.174495+00:00",
+    "reminder_sent": false
+  },
+  "https://haxfinity.devfolio.co": {
+    "title": "haxfinity",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:39.388172+00:00",
+    "reminder_sent": false
+  },
+  "https://hack-nexus.devfolio.co": {
+    "title": "Hack Nexus 2027",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:39.596634+00:00",
+    "reminder_sent": false
+  },
+  "https://hack-with-gdg-s4.devfolio.co": {
+    "title": "HACK WITH GDG S4",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:39.795833+00:00",
+    "reminder_sent": false
+  },
+  "https://goa-buildathon.devfolio.co": {
+    "title": "GOA BUILDATHON 27",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:40.010202+00:00",
+    "reminder_sent": false
+  },
+  "https://doubleslash5.devfolio.co": {
+    "title": "doubleSlash 5.0",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:40.212527+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/hackathons/upcoming": {
+    "title": "All upcoming hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:40.413990+00:00",
+    "reminder_sent": false
+  },
+  "https://devnexus-3.devfolio.co": {
+    "title": "DevNexus Vidisha",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:40.612682+00:00",
+    "reminder_sent": false
+  },
+  "https://woc6.devfolio.co": {
+    "title": "Winter of Code 6.0",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:40.811200+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/hackathons/past": {
+    "title": "All past hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:41.012939+00:00",
+    "reminder_sent": false
+  },
+  "https://hackonhills8.devfolio.co": {
+    "title": "Hack On Hills 8.0",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:41.224554+00:00",
+    "reminder_sent": false
+  },
+  "https://surat-hack-2026.devfolio.co": {
+    "title": "Surat Hack 2026",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:41.434932+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/organize": {
+    "title": "Organize a hackathon",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:41.770272+00:00",
+    "reminder_sent": false
+  },
+  "https://devfolio.co/hackathons": {
+    "title": "Explore hackathons",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:42.026887+00:00",
+    "reminder_sent": false
+  },
+  "https://summerofcode.withgoogle.com/how-it-works": {
+    "title": "How it works",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:42.223206+00:00",
+    "reminder_sent": false
+  },
+  "https://www.youtube.com/watch?v=p6xdQInKZh8&list=PLOU2XLYxmsIJ5kxKS2DO7y-X8EecbFT7g": {
+    "title": "Watch video",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:49.440189+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/about": {
+    "title": "About IAESTE",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:49.646909+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/internship-programmes": {
+    "title": "Internship Programmes",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:49.868512+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/annual-conferences": {
+    "title": "Annual Conference",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:50.119295+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/75-anniversary": {
+    "title": "IAESTE 75",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:50.313014+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/history": {
+    "title": "History of IAESTE",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:50.563347+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/countries": {
+    "title": "Member Countries",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:50.761129+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/news-and-events": {
+    "title": "News & Events",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:50.984346+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/contact": {
+    "title": "Contact Us",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:51.268888+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/students": {
+    "title": "Students",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:51.587249+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/how-it-works": {
+    "title": "How It Works",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:51.869234+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/internships": {
+    "title": "Internships",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:52.068613+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/insurance": {
+    "title": "Insurance",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:52.269703+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/student-testimonials": {
+    "title": "Testimonials",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:52.478876+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/student-volunteers": {
+    "title": "Volunteer with IAESTE",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:52.676349+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/feedback-and-complaints": {
+    "title": "Feedback and Complaints",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:52.885592+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/benefits": {
+    "title": "Benefits",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:53.104889+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/employers-page": {
+    "title": "Employers",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:53.302495+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/employers-how-it-works": {
+    "title": "How It Works",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:53.506065+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/employer-testimonials": {
+    "title": "Testimonials",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:53.803324+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/employers-partners": {
+    "title": "Partner With Us",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:54.051380+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/universities": {
+    "title": "Universities",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:54.263414+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.smartsimple.ie/s_csignup.jsp?token=XVtQHUUGYFxfQBVcXxJXQVZUZklyHXY%3D&pt[…]R0tfeVi7FNstlrTVuWi2lHLktfP7NKqFRUPvH5oxENA6iXcu5IR5TPzgdI": {
+    "title": "Apply Now",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:54.466708+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.smartsimple.ie/s_csignup.jsp?token=XVtQHUUGYFxfQBVcXxJXQVZUZklyHXY%3D&ptoken=XVtQC1oGYFxfQBVcXxJXQVZUZklyHXE%3D": {
+    "title": "Register now",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:54.669017+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/volunteer": {
+    "title": "Volunteer",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:54.867459+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/internships?utf8=✓&commit=find+an+internship+abroad": {
+    "title": "FIND AN INTERNSHIP ABROAD",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:55.064841+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/internships?utf8=✓&ref_no=&internship_type=remote&sort=deadline_at": {
+    "title": "FIND A REMOTE INTERNSHIP",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:55.263609+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/student-testimonials/yuvaraj-ravishankar-chappidi-ecuador": {
+    "title": "Quito, Ecuador Computer And Information Sciences 17 Weeks",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:55.461030+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/organisation-structure": {
+    "title": "Organisation Structure",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:55.671399+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/student-nonmembers": {
+    "title": "Non-member Countries",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:55.866742+00:00",
+    "reminder_sent": false
+  },
+  "https://www.yumpu.com/user/iaesteofficial": {
+    "title": "IAESTE Publications",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:56.064404+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/uploads/documents/exchange_quality_standard/file/1/Exchange_Quality_Standards__15-04-2022__-_website.pdf": {
+    "title": "Exchange Quality Standard",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:56.278833+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/legals/cookies-policy": {
+    "title": "Cookies Policy",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:56.488088+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/legals/privacy-policy": {
+    "title": "Privacy policy",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:56.691580+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/legals/terms-and-conditions": {
+    "title": "Terms and Conditions",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:56.915942+00:00",
+    "reminder_sent": false
+  },
+  "https://iaeste.org/legals/disclaimer": {
+    "title": "Disclaimer",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:57.135952+00:00",
+    "reminder_sent": false
+  },
+  "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/information-on-other-funding-organisations": {
+    "title": "other selected funding organisations",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:57.338251+00:00",
+    "reminder_sent": false
+  },
+  "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants": {
+    "title": "important scholarship information",
+    "deadline": null,
+    "first_seen": "2026-11-18T18:57:57.548429+00:00",
+    "reminder_sent": false
+  }
+}
