@@ -964,5 +964,77 @@
     "deadline": null,
     "first_seen": "2026-11-20T07:27:26.767369+00:00",
     "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/20/klaus-j-jacobs-research-prize-2027": {
+    "title": "Klaus J. Jacobs Research Prize 2027 (up to 1 million Swiss Francs)",
+    "deadline": "2027-01-31",
+    "first_seen": "2026-11-20T20:29:36.210088+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/20/cambridge-africa-climate-collaborative-research-fund-2026-2027": {
+    "title": "Cambridge Africa Climate Collaborative Research Fund 2026/2027",
+    "deadline": "2027-01-15",
+    "first_seen": "2026-11-20T20:29:36.378075+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026": {
+    "title": "NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000)",
+    "deadline": "2026-12-11",
+    "first_seen": "2026-11-20T20:29:36.511768+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/20/funza-lushaka-bursary-scheme-2027": {
+    "title": "Funza Lushaka Bursary Scheme 2027 for Students in South Africa",
+    "deadline": "2027-01-31",
+    "first_seen": "2026-11-20T20:29:36.652698+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-university-of-cambridge-mastercard-foundation-scholars-programme-2027-2028": {
+    "title": "The University of Cambridge Mastercard Foundation Scholars Programme 2027/2028 for young Africans (Fully Funded)",
+    "deadline": null,
+    "first_seen": "2026-11-20T20:29:36.779878+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-central-bank-of-kenya-cbk-internship-programme-2026-for-young-kenyan-graduates": {
+    "title": "The Central Bank of Kenya (CBK) Internship Programme 2026 for young Kenyan graduates",
+    "deadline": "2026-12-10",
+    "first_seen": "2026-11-20T20:29:36.903934+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-first-ibam-group-graduate-trainee-programme-2026-2027-for-young-nigerian-graduates": {
+    "title": "The First IBAM Group Graduate Trainee Programme 2026/2027 for young Nigerian graduates.",
+    "deadline": null,
+    "first_seen": "2026-11-20T20:29:37.030250+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-pps-foundations-bursary-programme-2027-for-young-south-african-students": {
+    "title": "The PPS Foundation’s Bursary Programme 2027 for young South African students.",
+    "deadline": "2026-12-20",
+    "first_seen": "2026-11-20T20:29:37.160633+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027": {
+    "title": "The Accountability Lab East and Southern Africa (ALESA) 2027 Digital Governance Incubator Program 2027 for emerging young leaders.",
+    "deadline": "2026-11-29",
+    "first_seen": "2026-11-20T20:29:37.308043+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/sadc-secondary-school-essay-competition-2027": {
+    "title": "SADC Secondary School Essay Competition 2027 for students from SADC Member States (USD$ 3,250 Prize)",
+    "deadline": "2027-03-31",
+    "first_seen": "2026-11-20T20:29:37.462270+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/undergraduate-scholarships": {
+    "title": "Bachelors",
+    "deadline": null,
+    "first_seen": "2026-11-20T20:29:37.598833+00:00",
+    "reminder_sent": false
+  },
+  "https://the-big-hack-2.devfolio.co": {
+    "title": "THE BIG HACK 2.0",
+    "deadline": null,
+    "first_seen": "2026-11-20T20:29:37.776934+00:00",
+    "reminder_sent": false
   }
 }
