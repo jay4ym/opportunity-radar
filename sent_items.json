@@ -1036,5 +1036,53 @@
     "deadline": null,
     "first_seen": "2026-11-20T20:29:37.776934+00:00",
     "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028": {
+    "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
+    "deadline": "2027-01-15",
+    "first_seen": "2026-11-21T19:25:15.495681+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028": {
+    "title": "Asia House Fellowship 2027/2028 (£24,000 stipend)",
+    "deadline": "2027-01-31",
+    "first_seen": "2026-11-21T19:25:15.626153+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/21/sadc-secondary-school-essay-competition-2027": {
+    "title": "SADC Secondary School Essay Competition 2027",
+    "deadline": "2027-05-31",
+    "first_seen": "2026-11-21T19:25:15.755814+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028": {
+    "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
+    "deadline": "2026-12-31",
+    "first_seen": "2026-11-21T19:25:15.890704+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027": {
+    "title": "Dataphyte Foundation Infra-Watch Media Fellowship 2027",
+    "deadline": "2026-11-27",
+    "first_seen": "2026-11-21T19:25:16.013095+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/deloitte-nigerias-2026-africa-consulting-services-acs-academy-for-young-nigerian-graduates": {
+    "title": "Deloitte Nigeria’s 2026 Africa Consulting Services (ACS) Academy for young Nigerian graduates.",
+    "deadline": "2026-11-27",
+    "first_seen": "2026-11-21T19:25:16.137437+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists": {
+    "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
+    "deadline": "2026-11-27",
+    "first_seen": "2026-11-21T19:25:16.261491+00:00",
+    "reminder_sent": false
+  },
+  "https://genarrative-clash.devfolio.co": {
+    "title": "GeNarrative Clash",
+    "deadline": null,
+    "first_seen": "2026-11-21T19:25:16.390463+00:00",
+    "reminder_sent": false
   }
 }
