@@ -1017,7 +1017,7 @@
     "title": "The Accountability Lab East and Southern Africa (ALESA) 2027 Digital Governance Incubator Program 2027 for emerging young leaders.",
     "deadline": "2026-11-29",
     "first_seen": "2026-11-20T20:29:37.308043+00:00",
-    "reminder_sent": false
+    "reminder_sent": true
   },
   "https://www.opportunitiesforafricans.com/sadc-secondary-school-essay-competition-2027": {
     "title": "SADC Secondary School Essay Competition 2027 for students from SADC Member States (USD$ 3,250 Prize)",
@@ -1083,6 +1083,18 @@
     "title": "GeNarrative Clash",
     "deadline": null,
     "first_seen": "2026-11-21T19:25:16.390463+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-itu-secretary-generals-youth-advisory-board-cohort-2": {
+    "title": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The ITU Secretary-General’s Youth Advisory Board​​​ cohort 2 for young leaders worldwide.",
+    "deadline": "2027-01-15",
+    "first_seen": "2026-11-22T07:00:55.682793+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-africaeu-space-partnership-programme-aespp-business-innovation-programme": {
+    "title": "The Africa–EU Space Partnership Programme (AESPP) Business Innovation Programme for African-registered EO businesses (€20,000 in milestone-based funding)",
+    "deadline": "2027-01-04",
+    "first_seen": "2026-11-22T07:00:55.867647+00:00",
     "reminder_sent": false
   }
 }
