@@ -105,7 +105,7 @@
     "title": "The 2027 EJN Story Grants to Report on Mining, Environment and Human Rights in Africa (US $20,000 in grants)",
     "deadline": "2026-12-01",
     "first_seen": "2026-11-18T18:57:22.658861+00:00",
-    "reminder_sent": false
+    "reminder_sent": true
   },
   "https://www.opportunitiesforafricans.com/the-international-court-of-justice-icj-judicial-fellowship-programme-2027-2028": {
     "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates – The Hague, Netherlands.",
@@ -1203,6 +1203,12 @@
     "title": "Stockholm University Scholarships for International Students",
     "deadline": null,
     "first_seen": "2026-11-24T00:00:29.171901+00:00",
+    "reminder_sent": false
+  },
+  "https://hackasol-iiit-nr-2026.devfolio.co": {
+    "title": "Hack-a-Sol 2026",
+    "deadline": null,
+    "first_seen": "2026-11-24T10:02:40.403848+00:00",
     "reminder_sent": false
   }
 }
