@@ -1102,5 +1102,107 @@
     "deadline": null,
     "first_seen": "2026-11-23T07:50:57.026719+00:00",
     "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/fulbright-teaching-excellence-and-achievement-program-2027": {
+    "title": "Fulbright Teaching Excellence and Achievement Program 2027 (Funded)",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:26.081860+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/yale-council-on-african-studies-visiting-african-scholars-fellowship-2027-2028": {
+    "title": "Yale Council on African Studies Visiting African Scholars Fellowship 2027-2028",
+    "deadline": "2026-12-31",
+    "first_seen": "2026-11-24T00:00:26.269738+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/tor-community-fellowship-2027": {
+    "title": "Tor Community Fellowship 2027 (stipend available)",
+    "deadline": "2026-12-17",
+    "first_seen": "2026-11-24T00:00:26.463851+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/un-fao-soil-collage-contest-2026": {
+    "title": "UN FAO Soil Collage Contest 2026",
+    "deadline": "2026-11-25",
+    "first_seen": "2026-11-24T00:00:26.655603+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/itu-secretary-general-youth-advisory-board-2": {
+    "title": "Apply to join the ITU Secretary-General’s Youth Advisory Board​​​",
+    "deadline": "2027-01-15",
+    "first_seen": "2026-11-24T00:00:26.842923+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027": {
+    "title": "Public Policy New Voices Fellowship Program 2026-2027",
+    "deadline": "2026-11-29",
+    "first_seen": "2026-11-24T00:00:27.035009+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-tor-community-fellowship-2027": {
+    "title": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD monthly stipend)",
+    "deadline": "2026-12-17",
+    "first_seen": "2026-11-24T00:00:27.229599+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/fulbright-teaching-excellence-and-achievement-program-2027-2028-fulbright-tea-for-secondary-level-teachers": {
+    "title": "Fulbright Teaching Excellence and Achievement Program 2027/2028 (Fulbright TEA) for secondary-level teachers (Fully Funded to the United States)",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:27.425650+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion": {
+    "title": "The WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career researchers ( São Paulo, Brazil)",
+    "deadline": "2026-12-05",
+    "first_seen": "2026-11-24T00:00:27.620365+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-echoing-green-talent-platform-for-social-entrepreneurs": {
+    "title": "The Echoing Green Talent Platform for Social Entrepreneurs",
+    "deadline": "2027-03-31",
+    "first_seen": "2026-11-24T00:00:27.819663+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-yale-council-on-african-studies-visiting-african-scholars-fellowship-2027-2028": {
+    "title": "The Yale Council on African Studies Visiting African Scholars Fellowship 2027/2028 for African academics.",
+    "deadline": "2026-12-31",
+    "first_seen": "2026-11-24T00:00:28.016175+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-she-wins-rapid-response-fund-rrf-for-women-led-initiatives": {
+    "title": "The SHE WINS Rapid Response Fund (RRF) for women-led initiatives.",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:28.213094+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/scholarships-in-sweden-for-international-students": {
+    "title": "Top 20+ Scholarships in Sweden for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:28.402336+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships": {
+    "title": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:28.589987+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/ertegun-graduate-scholarships-oxford": {
+    "title": "Ertegun Graduate Scholarships in the Humanities at University of Oxford",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:28.782421+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/nanyang-presidents-graduate-scholarship-ntu-singapore": {
+    "title": "Nanyang President’s Graduate Scholarship (NPGS) at NTU Singapore",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:28.968914+00:00",
+    "reminder_sent": false
+  },
+  "https://www.scholars4dev.com/stockholm-university-scholarships": {
+    "title": "Stockholm University Scholarships for International Students",
+    "deadline": null,
+    "first_seen": "2026-11-24T00:00:29.171901+00:00",
+    "reminder_sent": false
   }
 }
