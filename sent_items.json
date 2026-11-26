@@ -1420,5 +1420,53 @@
     "deadline": "2026-12-07",
     "first_seen": "2026-11-26T08:31:40.484410+00:00",
     "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/26/google-for-startups-accelerator-sovereign-ai-2027": {
+    "title": "Google for Startups Accelerator: Sovereign AI 2027",
+    "deadline": "2027-01-15",
+    "first_seen": "2026-11-26T21:41:21.677564+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027": {
+    "title": "Friends of Pakistan Fellowship 2027 (Funded)",
+    "deadline": "2026-12-11",
+    "first_seen": "2026-11-26T21:41:21.829198+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-jica-bcg-ninja-innovation-bridge-program-2027-for-growth-stage-startups": {
+    "title": "The JICA-BCG NINJA Innovation Bridge Program 2027 for growth-stage startups in Kenya and Nigeria (USD 50,000 in funding)",
+    "deadline": "2026-12-02",
+    "first_seen": "2026-11-26T21:41:21.962172+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026": {
+    "title": "The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students.",
+    "deadline": "2026-12-10",
+    "first_seen": "2026-11-26T21:41:22.095505+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/diageo-business-support-coordinator-graduate-trainee-programme-2027-for-young-nigerian-graduates": {
+    "title": "Diageo Business Support Coordinator Graduate Trainee Programme 2027 for young Nigerian graduates.",
+    "deadline": "2026-12-04",
+    "first_seen": "2026-11-26T21:41:22.236042+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027": {
+    "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
+    "deadline": "2027-02-15",
+    "first_seen": "2026-11-26T21:41:22.361263+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027": {
+    "title": "The International Agency for Research on Cancer (IARC) Summer School 2027 for  researchers and health professionals (Travel scholarships available to Lyon, France)",
+    "deadline": "2027-01-10",
+    "first_seen": "2026-11-26T21:41:22.500973+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-aradel-undergraduate-and-graduate-internship-program-2027-for-young-nigerians": {
+    "title": "The Aradel Undergraduate and Graduate Internship Program 2027 for young Nigerians.",
+    "deadline": null,
+    "first_seen": "2026-11-26T21:41:22.644141+00:00",
+    "reminder_sent": false
   }
 }
