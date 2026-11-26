@@ -15,7 +15,7 @@
     "title": "Open Call: Travel Stipends for Digital Democracy Edinburgh 2027",
     "deadline": "2026-12-03",
     "first_seen": "2026-11-18T18:57:19.532399+00:00",
-    "reminder_sent": false
+    "reminder_sent": true
   },
   "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027": {
     "title": "Stanley Park Climate Finance Scholarships 2027",
@@ -1401,12 +1401,24 @@
     "title": "The Digital Opportunity Trust (DOT) Climate Innovation Bootcamp 2026 for young climate innovators.",
     "deadline": "2026-12-03",
     "first_seen": "2026-11-25T21:48:18.105769+00:00",
-    "reminder_sent": false
+    "reminder_sent": true
   },
   "https://www.opportunitiesforafricans.com/the-iaffe-feminist-economics-school-fe-school-2027": {
     "title": "The IAFFE Feminist Economics School (FE School) 2027 for early-career professionals (Travel grant available)",
     "deadline": "2026-12-10",
     "first_seen": "2026-11-25T21:48:18.271337+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/25/10-global-scholarship-opportunities-currently-open-november-25-2026": {
+    "title": "10 Global Scholarship Opportunities Currently Open – November 25, 2026",
+    "deadline": null,
+    "first_seen": "2026-11-26T08:31:40.345619+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027": {
+    "title": "ENGYRO Research Proposal Competition 2027",
+    "deadline": "2026-12-07",
+    "first_seen": "2026-11-26T08:31:40.484410+00:00",
     "reminder_sent": false
   }
 }
