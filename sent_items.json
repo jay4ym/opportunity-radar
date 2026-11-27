@@ -1449,7 +1449,7 @@
     "title": "Diageo Business Support Coordinator Graduate Trainee Programme 2027 for young Nigerian graduates.",
     "deadline": "2026-12-04",
     "first_seen": "2026-11-26T21:41:22.236042+00:00",
-    "reminder_sent": false
+    "reminder_sent": true
   },
   "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027": {
     "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
@@ -1467,6 +1467,12 @@
     "title": "The Aradel Undergraduate and Graduate Internship Program 2027 for young Nigerians.",
     "deadline": null,
     "first_seen": "2026-11-26T21:41:22.644141+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/27/beyond-the-credential-how-an-online-dba-can-reshape-the-way-you-lead": {
+    "title": "Beyond the Credential: How an Online DBA Can Reshape the Way You Lead",
+    "deadline": null,
+    "first_seen": "2026-11-27T08:45:54.233123+00:00",
     "reminder_sent": false
   }
 }
