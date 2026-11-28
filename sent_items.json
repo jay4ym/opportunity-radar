@@ -1552,5 +1552,47 @@
     "deadline": null,
     "first_seen": "2026-11-27T21:26:02.119229+00:00",
     "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/28/youth-entrepreneurship-incubation-programme-2027": {
+    "title": "FATE Foundation Youth Entrepreneurship Incubation Programme (YEIP) 2027",
+    "deadline": "2027-01-16",
+    "first_seen": "2026-11-28T20:15:59.718774+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/28/hoffmann-leaders-for-planetary-futures-2027": {
+    "title": "Hoffmann Leaders for Planetary Futures 2027",
+    "deadline": null,
+    "first_seen": "2026-11-28T20:15:59.892088+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/28/africa-re-young-insurance-professionals-programme-2027": {
+    "title": "African Reinsurance Corporation (Africa Re) Young Insurance Professionals Programme (YIPP) – 2027",
+    "deadline": "2027-02-15",
+    "first_seen": "2026-11-28T20:16:00.087824+00:00",
+    "reminder_sent": false
+  },
+  "https://opportunitydesk.org/2026/11/28/ai-diffusion-pathways-for-agriculture-2027": {
+    "title": "AI Diffusion Pathways for Agriculture (AIDPA) 2027",
+    "deadline": "2026-12-15",
+    "first_seen": "2026-11-28T20:16:00.245068+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-cell-c-emerging-talent-programme-2027-for-young-south-africans": {
+    "title": "The  Cell C Emerging Talent Programme 2027 for young South Africans.",
+    "deadline": null,
+    "first_seen": "2026-11-28T20:16:00.439552+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-iasa-young-scientists-summer-program-yssp-2027": {
+    "title": "The IASA Young Scientists Summer Program (YSSP) 2027 for doctoral students worldwide (Funded)",
+    "deadline": "2027-01-10",
+    "first_seen": "2026-11-28T20:16:00.642969+00:00",
+    "reminder_sent": false
+  },
+  "https://www.opportunitiesforafricans.com/the-fate-foundation-youth-entrepreneurship-incubation-programme-yeip-2027-for-young-nigerian-entrepreneurs": {
+    "title": "The Fate Foundation Youth Entrepreneurship Incubation Programme (YEIP) 2027 for young Nigerian Entrepreneurs.",
+    "deadline": "2027-01-16",
+    "first_seen": "2026-11-28T20:16:00.846317+00:00",
+    "reminder_sent": false
   }
 }
